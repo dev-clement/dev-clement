@@ -1,4 +1,4 @@
-👋 Hi, I’m @dev-clement
+👋 Hi, I’m @Clement
 - 👀 I’m interested in software, architecture and development
 - 🌱 I’m currently learning Qt in C++
 - 💞️ I’m looking to collaborate on projects related to Java, C++, C# languages
