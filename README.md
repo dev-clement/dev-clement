@@ -17,8 +17,7 @@ I am a developer who thrives on understanding how things work under the hood. My
 ---
 
 ### 📈 What I'm Up To
-- 🔭 **Currently Working On:** Deep-diving into the **CMake-Ep** series to master build systems.
-- 🎓 **Learning:** Starting my **ASP.NET Core** journey tomorrow to build scalable web APIs.
+- 🎓 **Learning:** Starting my **ASP.NET Core** journey to build scalable web APIs.
 - ⚡ **Aspiration:** To bridge the gap between high-performance backend logic and modern web architecture.
 - 🎯 **Goal:** I am "starving" to master the craft of software engineering—one commit at a time.
 
@@ -34,4 +33,3 @@ I am a developer who thrives on understanding how things work under the hood. My
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
-- 🕸 [Portfolio](https://YOUR_WEBSITE_HERE)
